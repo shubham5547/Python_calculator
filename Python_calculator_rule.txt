@@ -1,0 +1,10 @@
+PYTHON CALCILATOR :- it works on two rules.
+
+Precedence rule:-
+
+OPERATORS                  PRECEDENCE AND ASSOCIATIVITY RULE
+
+a) Parenthese                   Highest
+b) Exponent                      Right to Left
+c) *, /, //, %                    Left to Right
+d) +, -                           Left to Right 
